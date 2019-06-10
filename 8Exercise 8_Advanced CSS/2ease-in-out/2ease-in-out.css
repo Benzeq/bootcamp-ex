@@ -1,0 +1,12 @@
+.box {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: gold;
+  margin-bottom: 20px;
+  transition: 2s ease-in-out;
+}
+
+.box:hover {
+  width: 300px;
+}

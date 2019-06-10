@@ -1,0 +1,12 @@
+.text {
+  background-color: yellow;
+  display: inline-block;
+  width: 24%;
+}
+@media screen and (max-width: 450px) {
+  .text {
+    background-color: lightcoral;
+    width: 85%;
+    display: block;
+  }
+}

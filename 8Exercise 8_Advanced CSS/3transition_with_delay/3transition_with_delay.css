@@ -1,0 +1,13 @@
+.container:hover {
+  border: 1px solid black;
+  background: orange;
+  display: flex;
+  justify-content: center;
+  transition-delay: 0.5s;
+}
+
+
+
+.paragraph {
+  font-weight: bold;
+}

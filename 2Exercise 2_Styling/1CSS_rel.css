@@ -1,0 +1,43 @@
+body{
+  padding-top: 350px;
+}
+
+.border1 {
+  border: 2px solid Tomato;
+  font-size: 30px;
+}
+.border2 {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+}
+.border3 {
+  font-size: 25px;
+  background-color: black;
+  color: white;
+  box-shadow: 5px 5px 5px gray;
+}
+.border4 {
+  font-size: 25px;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding-left: 10px;
+  margin: 20px;
+}
+.border5 {
+  font-size: 20px;
+  position: fixed;
+  top:100px;
+  right:100px;
+  background-color: palegreen;
+  width: initial;
+  border: 5px solid navy  ;
+  padding: 50px;
+  margin: 20px;
+}
+.border6 {
+  font-size: xx-large;
+  max-height: 35px;
+  overflow: scroll;
+ 
+}
